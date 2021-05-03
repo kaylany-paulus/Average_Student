@@ -1,2 +1,7 @@
 # Average_Student
-Receba 4 notas, com somente uma casa decimal. Valide se todas estão entre 0.0 e 10.0. Se alguma delas não estiver, exiba "Digite somente notas entre 0 e 10.". Caso todas as notas sejam válidas, calcule a média aritmética das notas. Exiba uma mensagem no seguinte padrão: "Você ficou com média 7,5. Resultado: Aprovado"
+
+--------------------------
+<b>ENUNCIADO:</b>
+
+--------------------------
+<i>Receives 4 notes, with only one decimal place. Validates that all are between 0.0 and 10.0. If any of them are not, display "Digitea only grades between 0 and 10.". If all grades are valid, calculate the arithmetic mean of the grades. Displays a message in the following pattern: "You have averaged 7.5. Result: Passed"</i>
